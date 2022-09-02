@@ -9,14 +9,15 @@
 
 { 
 
-        "name":SG-DtacNoPro-VIP 2",
+        "name":"SG-DtacNoPro-VIP 2",
         "urI":
          
 "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/SG-%20DtacNoPro%20VIP%202.ovpn"
-       }  
+       }
 
- },
-"message":" Update config version - 1 \n Latest update - August 29 2022\n \nWhat's new  \n Added new Singapore server 2 \nစင်ကာပူဆာဗာ\n IS ဆာဗာ \n \nVIP account \n 1 month - 50 baht  \n Data transfer - Unlimited \n Unlimited time - Yes \n 1 Device - 1 account \nContact me\nhttps://m.me/kokhantvpn  \n \nအားပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်ခင်ဗျ",
+
+    ],
+ "message":" Update config version - 1 \n Latest update - August 29 2022\n \nWhat's new  \n Added new Singapore server 2 \nစင်ကာပူဆာဗာ\n IS ဆာဗာ \n \nVIP account \n 1 month - 50 baht  \n Data transfer - Unlimited \n Unlimited time - Yes \n 1 Device - 1 account \nContact me\nhttps://m.me/kokhantvpn  \n \nအားပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်ခင်ဗျ",
    "title":"Do you want to update?",
    "version": 1
 }
