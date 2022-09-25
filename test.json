@@ -2,35 +2,46 @@
    "files": [  
 
 {
-         "name": "SG-DtacNoPro-VIP-1",
-         "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/DtacNoPro%20VIP%201.ovpn"
+         "name": "SG-DtacNoPro-VIP 1",
+         "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/DtacNoPro%20VIP%201.ovpn"   
       },
 
 {
-         "name": "SG-DtacNoPro-VIP-2",
+         "name": "TH-DtacNoPro-VIP 1",
+         "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/TH%20DtacNoProVip1.ovpn"
+      },
+
+{
+         "name": "SG-DtacNoPro-VIP 2",
          "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/SG-DtacNoPro%20VIP%202.ovpn"
       },
 
-{
-         "name": "SG-DtacNoPro-VIP-3",
-         "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/SG-DtacNOPro%20VIP%203.ovpn"
-      
-      },
 
 {
-         "name": "SG-DtacNoPro-VIP-4",
+         "name": "SG-DtacNoPro-VIP 3",
+         "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/SG-DtacNOPro%20VIP%203.ovpn"
+      },
+
+
+{
+         "name": "SG-DtacNoPro-VIP 4",
          "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/DtacNoProVIP%204.ovpn"
       },
 
+{
+         "name": "TH-TrueNoPro-VIP 2",
+         "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/TH%20TrueNoProVIP%201.ovpn"
+      },
 
 {
-         "name": "SG-TrueNoPro-VIP-5",
+         "name": "SG-TrueNoPro-VIP5",
          "url": "https://raw.githubusercontent.com/KoKhantVPN/file-update/main/TrueNoPro%20VIP%201(1).ovpn"
       }
 
+      
 
    ],
-"message":" Update config version - 12 \n Latest update - Septe 05 2022\n \nWhat's new  \n Added new Singapore server 5 \nစင်ကာပူဆာဗာ\n IS ဆာဗာ \n \nVIP account \n  \n Data transfer - Unlimited \n Unlimited time - Yes \n 1 Device - 1 account \nContact me\nhttps://m.me/koyote.soelay.71 \n \nအားပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်နော်ညီကိုတို့🙏",
+"message":" Update config version - 13 \n Latest update - september  25 2022\n \nWhat's new  \n Added new Singapore server 5 \nစင်ကာပူဆာဗာ\n Thai ဆာဗာ \n \nVIP account \n 1 month - 70/100 baht  \n Data transfer - Unlimited \n Unlimited time - Yes \n 1 Device - 1 account \nContact me\n https://m.me/koyote.soelay.71 \n \nအားပေးတဲ့အတွက် ကျေးဇူးတင်ပါတယ်",
    "title":"Do you want to update?",
-   "version": 12
+   "version": 13
 }
